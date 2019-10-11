@@ -1,0 +1,74 @@
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe.config
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.pdb
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Properties.Resources.resources
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csproj.GenerateResource.Cache
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.exe
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.pdb
+C:\Users\Хозяин\Documents\Visual Studio 2017\Projects\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Form1.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Main.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Properties.Resources.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csproj.GenerateResource.Cache
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.exe
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.pdb
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe.config
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.pdb
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.xml
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.dll
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Order.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Autorization.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.WarehouseWorker.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.CheckForm.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\p1_2357302_9035e97a.ico
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.AdminsForm.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.FindPurchaces.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\p1_2357302_9035e97a.ico
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe.config
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.pdb
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.dll
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.xml
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csprojAssemblyReference.cache
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.AdminsForm.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Autorization.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.CheckForm.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.FindPurchaces.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Main.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Order.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Properties.Resources.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.WarehouseWorker.resources
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csproj.GenerateResource.cache
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csproj.CopyComplete
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.exe
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.pdb
+C:\Users\asp\Desktop\Курсовой\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.DeleteProductFromDB.resources
+C:\Users\Хозяин\Desktop\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.DeleteProductFromDB.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\p1_2357302_9035e97a.ico
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe.config
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.exe
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\PrestigeClient_WinForms.pdb
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.dll
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.xml
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csprojResolveAssemblyReference.cache
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.AdminsForm.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Autorization.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.CheckForm.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.DeleteProductFromDB.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.FindPurchaces.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Main.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Order.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.Properties.Resources.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.WarehouseWorker.resources
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.csproj.GenerateResource.Cache
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.exe
+D:\ШАГ\ADO.NET\SupermarketPrestige\PrestigeClient_WinForms\obj\Debug\PrestigeClient_WinForms.pdb

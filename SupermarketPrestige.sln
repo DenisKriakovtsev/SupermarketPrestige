@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrestigeClient_WinForms", "PrestigeClient_WinForms\PrestigeClient_WinForms.csproj", "{084982DA-58A6-4C69-AB30-04FFB58E6F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrestigeHost", "PrestigeHost\PrestigeHost.csproj", "{768CF870-736B-4293-82C2-CD990D8735EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{084982DA-58A6-4C69-AB30-04FFB58E6F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084982DA-58A6-4C69-AB30-04FFB58E6F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084982DA-58A6-4C69-AB30-04FFB58E6F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084982DA-58A6-4C69-AB30-04FFB58E6F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768CF870-736B-4293-82C2-CD990D8735EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768CF870-736B-4293-82C2-CD990D8735EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768CF870-736B-4293-82C2-CD990D8735EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768CF870-736B-4293-82C2-CD990D8735EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F431124-19B0-400D-BF4F-4AD7A8BE61E2}
+	EndGlobalSection
+EndGlobal
